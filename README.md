@@ -268,7 +268,7 @@ Make sure to import base, components, utilities you need. This all ends up in ou
 
 ### Step 4b: index.css
 
-Same principle. Place for importing js libraries and flowbite, tailwindcss, js customization.
+Same principle. Place for flowbite, tailwindcss customization and additional js.
 
 <pre>
 import Flowbite from 'flowbite';
